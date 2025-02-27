@@ -1,0 +1,12 @@
+https://www.youtube.com/watch?v=86BKEv0X2xU
+
+workflow 
+git clone (anaconda prompt and in cd Documents)
+
+to open vs code inside this 
+--> code .
+
+
+
+Files creation order
+1) template.py 
