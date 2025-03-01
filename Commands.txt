@@ -10,3 +10,25 @@ to open vs code inside this
 
 Files creation order
 1) template.py 
+
+after running -->python template.py in the terminal 
+-->git add .
+-->git commit -m "folder structure added"
+-->git push origin main
+
+(refresh the GitHub page- u will see all the folders there)
+
+2) requirements 
+3) setup.py
+
+terminal run
+-->conda create -n kidney python=3.8 -y
+-->conda activate kidney
+-->pip install -r requirements.txt
+
+4)readme
+5)main.py
+-->python main.py
+
+on running this logs folder will be created 
+6) inside utils file create common.py (for exceptions)
